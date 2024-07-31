@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Job resume matching App')
 
 st.write('Hello world!')
